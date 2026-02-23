@@ -1,5 +1,3 @@
-<!-- Copyrights 2020–25 @sohag1192 -->
-
 <p align="center">
   <a href="/"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Hello" width="160px" /></a>
 </p>
