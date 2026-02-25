@@ -38,10 +38,9 @@ I enjoy building reproducible workflows, automation scripts, and community‑dri
 ---
 
 ## 🌐 Connect With Me
-- **Telegram**: Flussonics  
-- **Twitter/X**: [@Sohag_1192](https://twitter.com/Sohag_1192)  
-- **Email**: sohag1192@gmail.com  
-- **Website**: [rootmaster.xyz](http://rootmaster.xyz)
+- **Telegram**: [Sohag1192  ](https://t.me/sohag1192)
+
+
 
 ---
 
